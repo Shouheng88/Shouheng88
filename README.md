@@ -2,12 +2,12 @@
 
 My name is Jeff Wang, a software engineer:
 
-- 🔭 I’m currently working on my new App [Yanye](https://play.google.com/store/apps/details?id=me.shouheng.beauty) & [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox) and writing some blogs.
+- 🔭 I’m currently working on my new App **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)** & [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox) and writing some blogs.
 - 🌱 I’m currently learning FE, flutter & Python crawler.
 - 💼 My Android development kit: [Android-VMLib](https://github.com/Shouheng88/Android-VMLib), [iCamera](https://github.com/Shouheng88/iCamera), [Android-utils](https://github.com/Shouheng88/Android-utils), [Android-uix](https://github.com/Shouheng88/Android-uix), [Compressor](https://github.com/Shouheng88/Compressor), [EasyMark](https://github.com/Shouheng88/EasyMark)
 - 🍩 My open source projects: [MarkNote](https://github.com/Shouheng88/MarkNote), [TranslateMyApp](https://github.com/Shouheng88/TranslateMyApp), [OmniList](https://github.com/Shouheng88/OmniList)
 - 📱 My published Apps:
-    - [YanYe](https://play.google.com/store/apps/details?id=me.shouheng.beauty): A sentence creation, collection and sharing platform.
+    - **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote): Connecting phone and desktop, designed for cross platform, the new Mardkwon note-taking application.**
     - [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox): A collection of useful and efficient tools.
     - [MarkNote](https://play.google.com/store/apps/details?id=me.shouheng.notepal): A markdown note-taking application.
 - 📫 How to reach me:
