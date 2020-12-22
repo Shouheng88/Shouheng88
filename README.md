@@ -32,4 +32,7 @@ If you have the requirement for a markdown note-taking application on Android, w
 <img src="images/page_7_en.png" style="margin-left:5px;" width="24%"/>
 </div>
 
-**or you can download from CoolApk market**: [言叶 —— 为跨平台而设计的 Markdown 笔记应用](http://www.coolapk.com/apk/280001).
+**Download**
+
+- GooglePlay: [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)
+- CoolApk market: [言叶 —— 为跨平台而设计的 Markdown 笔记应用](http://www.coolapk.com/apk/280001).
