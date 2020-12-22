@@ -15,7 +15,9 @@ My name is Shouheng Wang, a software engineer:
     - My Blog: [掘金](https://juejin.im/user/3685218704691469)
     - WeChat Official Accounts: **Hello 开发者**
 
-## 👏👏👏 My new product: LeafNote, connecting phone and computer, designed for cross platform
+## 👏👏👏 My new product
+
+### LeafNote, connecting phone and computer, designed for cross platform
 
 If you have the requirement for a markdown note-taking application on Android, witch can sync your notes between phone and computer, you can try my new App [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote). Preview images of LeafNote:
 
@@ -30,4 +32,4 @@ If you have the requirement for a markdown note-taking application on Android, w
 <img src="images/page_7_en.png" style="margin-left:5px;" width="24%"/>
 </div>
 
-or you can download from CoolApk market: [言叶 —— 为跨平台而设计的 Markdown 笔记应用](http://www.coolapk.com/apk/280001).
+**or you can download from CoolApk market**: [言叶 —— 为跨平台而设计的 Markdown 笔记应用](http://www.coolapk.com/apk/280001).
