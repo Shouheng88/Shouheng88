@@ -2,13 +2,14 @@
 
 My name is Shouheng Wang, a software engineer:
 
-- 🔭 I’m currently working on my new App **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)** & [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox) and writing some blogs.
-- 🌱 I’m currently learning FE, flutter & Python crawler.
+- 🔭 I’m currently working on my new App **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)** 
+- 🌱 I’m currently learning FE & flutter.
 - 💼 My Android development kit: [Android-VMLib](https://github.com/Shouheng88/Android-VMLib), [iCamera](https://github.com/Shouheng88/iCamera), [Android-utils](https://github.com/Shouheng88/Android-utils), [Android-uix](https://github.com/Shouheng88/Android-uix), [Compressor](https://github.com/Shouheng88/Compressor), [EasyMark](https://github.com/Shouheng88/EasyMark)
 - 🍩 My open source projects: [MarkNote](https://github.com/Shouheng88/MarkNote), [TranslateMyApp](https://github.com/Shouheng88/TranslateMyApp), [OmniList](https://github.com/Shouheng88/OmniList)
 - 📱 My published Apps:
     - **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote): Connecting phone and desktop, designed for cross platform, the new Mardkwon note-taking application.**
     - [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox): A collection of useful and efficient tools.
+    - [WhatsNext](https://play.google.com/store/apps/details?id=me.shouheng.whatsnext): A time and task management App.
     - [MarkNote](https://play.google.com/store/apps/details?id=me.shouheng.notepal): A markdown note-taking application.
 - 📫 How to reach me:
     - Email: shouheng2015@gmail.com
@@ -22,14 +23,14 @@ My name is Shouheng Wang, a software engineer:
 If you have the requirement for a markdown note-taking application on Android, witch can sync your notes between phone and computer, you can try my new App [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote). Preview images of LeafNote:
 
 <div style="display:flex;" id="target">
-<img src="images/page_0.png" width="24%" />
-<img src="images/page_1.png" style="margin-left:5px;" width="24%"/>
-<img src="images/page_2.png" style="margin-left:5px;" width="24%"/>
-<img src="images/page_3_en.png" style="margin-left:5px;" width="24%"/>
-<img src="images/page_4.png" style="margin-left:5px;" width="24%"/>
-<img src="images/page_5_en.png" style="margin-left:5px;" width="24%"/>
-<img src="images/page_6_en.png" style="margin-left:5px;" width="24%"/>
-<img src="images/page_7_en.png" style="margin-left:5px;" width="24%"/>
+<img src="images/page_0.png" width="11%" />
+<img src="images/page_1.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_2.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_3_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_4.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_5_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_6_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_7_en.png" style="margin-left:5px;" width="11%"/>
 </div>
 
 **Download**
