@@ -23,14 +23,14 @@ My name is Shouheng Wang, a software engineer:
 If you have the requirement for a markdown note-taking application on Android, witch can sync your notes between phone and computer, you can try my new App [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote). Preview images of LeafNote:
 
 <div style="display:flex;" id="target">
-<img src="images/page_0_en.png" width="25%" />
-<img src="images/page_1_en.png" style="margin-left:10px;" width="25%"/>
-<img src="images/page_2_en.png" style="margin-left:10px;" width="25%"/>
-<img src="images/page_3_en.png" style="margin-left:10px;" width="25%"/>
-<img src="images/page_4_en.png" style="margin-left:10px;" width="25%"/>
-<img src="images/page_5_en.png" style="margin-left:10px;" width="25%"/>
-<img src="images/page_6_en.png" style="margin-left:10px;" width="25%"/>
-<img src="images/page_8_en.png" style="margin-left:10px;" width="25%"/>
+<img src="images/page_0_en.png" width="11%" />
+<img src="images/page_1_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_2_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_3_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_4_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_5_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_6_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_8_en.png" style="margin-left:5px;" width="11%"/>
 </div>
 
 **Download**
