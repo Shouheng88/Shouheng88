@@ -3,7 +3,7 @@
 My name is Shouheng Wang, a software engineer:
 
 - 🔭 I’m currently working on my new App **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)** 
-- 🌱 I’m currently learning FE & flutter.
+- 🌱 I’m currently learning FE & flutter & Jetpack compose & C++.
 - 💼 My Android development kit: 
     - [Android-VMLib](https://github.com/Shouheng88/Android-VMLib)
     - [iCamera](https://github.com/Shouheng88/iCamera) 
