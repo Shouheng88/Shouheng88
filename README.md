@@ -21,7 +21,6 @@ My name is Shouheng Wang, a software engineer:
 - 📫 How to reach me:
     - Email: shouheng2015@gmail.com
     - My Blog: [掘金](https://juejin.im/user/3685218704691469)
-    - WeChat Official Accounts: **你好 开发者**
 
 ## 👏👏👏 My new product
 
