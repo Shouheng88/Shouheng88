@@ -18,9 +18,6 @@ My name is Shouheng Wang, a software engineer:
     - [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox): A collection of useful and efficient tools.
     - [WhatsNext](https://play.google.com/store/apps/details?id=me.shouheng.whatsnext): A time and task management App.
     - [MarkNote](https://play.google.com/store/apps/details?id=me.shouheng.notepal): A markdown note-taking application.
-- 📫 How to reach me:
-    - Email: shouheng2015@gmail.com
-    - My Blog: [掘金](https://juejin.im/user/3685218704691469)
 
 ## 👏👏👏 My new product
 
