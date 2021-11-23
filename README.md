@@ -2,16 +2,10 @@
 
 My name is Shouheng Wang, a software engineer:
 
-- 🔭 I’m currently working on my new App **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)** 
+- 🔭 I’m currently working on my App **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote)**.
 - 🌱 I’m currently learning FE & flutter & Jetpack compose & C++.
-- 💼 My Android development kit: 
-    - [Android-VMLib](https://github.com/Shouheng88/Android-VMLib)
-    - [iCamera](https://github.com/Shouheng88/iCamera) 
-    - [Android-utils](https://github.com/Shouheng88/Android-utils)
-    - [AndroidStartup](https://github.com/Shouheng88/AndroidStartup)
-    - [Compressor](https://github.com/Shouheng88/Compressor)
-    - [EasyMark](https://github.com/Shouheng88/EasyMark)
-- 🍩 My open source projects: [MarkNote](https://github.com/Shouheng88/MarkNote), [AndroidTools](https://github.com/Shouheng88/TranslateMyApp), [OmniList](https://github.com/Shouheng88/OmniList), [Seed](https://github.com/Shouheng88/SpringBooster)
+- 💼 My Android development kit: [Android-VMLib](https://github.com/Shouheng88/Android-VMLib), [iCamera](https://github.com/Shouheng88/iCamera), [Android-utils](https://github.com/Shouheng88/Android-utils), [AndroidStartup](https://github.com/Shouheng88/AndroidStartup), [Compressor](https://github.com/Shouheng88/Compressor) and [EasyMark](https://github.com/Shouheng88/EasyMark).
+- 🍩 My open source projects: [MarkNote](https://github.com/Shouheng88/MarkNote), [AndroidTools](https://github.com/Shouheng88/TranslateMyApp), [OmniList](https://github.com/Shouheng88/OmniList) and [Seed](https://github.com/Shouheng88/SpringBooster).
 - 📱 My published Apps:
     - **[Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote): Connecting phone and desktop, designed for cross platform, the new Mardkwon note-taking application.**
     - [MobileBox](https://play.google.com/store/apps/details?id=me.shouheng.mobilebox): A collection of useful and efficient tools.
