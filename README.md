@@ -13,9 +13,11 @@ My name is Shouheng Wang, a software engineer:
 
 ## 👏👏👏 My new product
 
-### LeafNote, connecting phone and computer, designed for cross platform
+### LeafNote, a Markdown and note-taking application
 
-If you have the requirement for a markdown note-taking application on Android, witch can sync your notes between phone and computer, you can try my new App [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote). Preview images of LeafNote:
+**Leaf Note is a private Markdown and note-taking application for multi-platform collaboration via cloud sync. It's designed based on Material Design with powerful functions.** You can try the App on Google Play Store [Leaf Note](https://play.google.com/store/apps/details?id=me.shouheng.leafnote). 
+
+Preview images of LeafNote:
 
 <div style="display:flex;" id="target">
 <img src="images/page_0_en.png" width="11%" />
