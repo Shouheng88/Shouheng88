@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### Hi there 👋
 
 My name is Shouheng Wang, a software engineer:
 
@@ -25,7 +25,7 @@ If you have the requirement for a markdown note-taking application on Android, w
 <img src="images/page_4_en.png" style="margin-left:5px;" width="11%"/>
 <img src="images/page_5_en.png" style="margin-left:5px;" width="11%"/>
 <img src="images/page_6_en.png" style="margin-left:5px;" width="11%"/>
-<img src="images/page_8_en.png" style="margin-left:5px;" width="11%"/>
+<img src="images/page_7_en.png" style="margin-left:5px;" width="11%"/>
 </div>
 
 **Download**
