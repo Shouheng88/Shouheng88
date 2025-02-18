@@ -9,7 +9,7 @@ I'm an engineer with over 10 years of programming experience. I used to work as 
 - 🌱 I’m currently working on my Apps and I'm **open for opportunities now** (remote).
 - 📱 My open suorce Apps:
     - [MarkNote](https://github.com/Shouheng88/MarkNote): An open source markdown note-taking application for Android.
-    - [OmniList](https://github.com/Shouheng88/OmniList): An open source TODO App for Android.
+    - [OmniList](https://github.com/Shouheng88/OmniList): An open source task management App for Android.
 - 💻 If you want to sharpen your programming skills, try my open source projects:
     - Android:
         - [utils-android](https://github.com/Shouheng88/utils-android): Most necessary Android utils to accelerate your App development.
