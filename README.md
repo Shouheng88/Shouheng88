@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-I'm an engineer:
+I'm an engineer with over 10 years of programming experience. I used to work as a senior Android developer for an online music app that serves more than 900M users. I'm proficient in multiple areas, including Android, iOS(SwiftUI), Java Web, Python, and system administration on CentOS.
 
 - 🔭 I’m currently working on my Apps: 
     - **LeafNote**: A private Markdown and note App for Android and iOS. Try it on [GooglePlay](https://play.google.com/store/apps/details?id=me.shouheng.leafnote) or [CoolAPK](http://www.coolapk.com/apk/280001) for Android and [Apple Store](https://apps.apple.com/us/app/leafy-notes/id6504428581) for iOS.
