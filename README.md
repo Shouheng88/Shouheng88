@@ -23,3 +23,6 @@ I'm an engineer with over 10 years of programming experience. I used to work as 
         - [AwesomeSwift](https://github.com/Shouheng88/AwesomeSwift): Templates and usages for SwiftUI widgets
     - Java Web:
         - [Seed](https://github.com/Shouheng88/Seed): A template project based on SpringBoot to create a server App.
+- 📢 Here are my blogs and channels:
+    - [Juejin](https://juejin.cn/user/3685218704691469): Chinese only.
+    - [Medium](https://medium.com/@shouhengwang): Building...
