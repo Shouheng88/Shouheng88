@@ -9,6 +9,7 @@ I'm an engineer with over 10 years of programming experience. I used to work as 
     - **Kana Hustle**: A free App to help you learn japanese hiragana and katakana. Try it on [Apple Store](https://apps.apple.com/us/app/kana-hustle/id6744238939).
     - **Easy I18n**: A convenient development tool to manage i18n resources. Try it on [easy-i18n-home](https://github.com/Shouheng88/easy-i18n-home).
     - **Aile Code**: A free website for you to learn to code, with 10,000+ documents. Try it on [ailecode.com](https://ailecode.com).
+    - **Product Cube**: The All-in-One AI Copilot for One-Person Companies & Indie Developers. Try it on [Product-Cube](https://github.com/Shouheng88/Product-Cube).
 - 🌱 I’m currently working on my Apps and I'm **open for opportunities now** (remote).
 - 📱 My open suorce Apps:
     - [MarkNote](https://github.com/Shouheng88/MarkNote): An open source markdown note-taking application for Android.
@@ -28,4 +29,4 @@ I'm an engineer with over 10 years of programming experience. I used to work as 
         - [Seed](https://github.com/Shouheng88/Seed): A template project based on SpringBoot to create a server App.
 - 📢 Here are my blogs and channels:
     - [Juejin](https://juejin.cn/user/3685218704691469): Chinese only.
-    - [Medium](https://medium.com/@wyuhuan): Building...
+    - [Medium](https://medium.com/@wyuhuan): English only.
